@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Diego Samuel 👋
 
-- 🔭 Atualmente estou estudando Ciência da Computação na UEMS
+- 🔭 Atualmente estou cursando Ciência da Computação na UEMS
 - 🌱 Estudando desenvolvimento WEB, utilizando HTML, CSS e JavaScript
 
 <div>
