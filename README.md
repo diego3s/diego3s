@@ -3,12 +3,6 @@
 - 🔭 Atualmente estou cursando Ciência da Computação na UEMS - Universidade Estadual de Mato Grosso do Sul
 - 🌱 Estudando desenvolvimento WEB, utilizando HTML, CSS e JavaScript
 
-<div>
-  <a href="https://github.com/diego3s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego3s&show_icons=true&theme=dracula&count_private=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego3s&layout=compact&langs_count=16&theme=dracula&count_private=true)"/>
-</div>
-
 <div style="display: inline-block"><br>
   <img align="center" alt="Linguagem C++" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Linguagem C" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
