@@ -1,14 +1,16 @@
 ## Olá! Eu sou o Diego Samuel 👋
 
-- 🔭 Atualmente estou cursando Ciência da Computação na UEMS - Universidade Estadual de Mato Grosso do Sul
-- 🌱 Estudando desenvolvimento WEB, utilizando HTML, CSS e JavaScript
+**Desenvolvedor Backend Júnior | Python · C++ · SQL · APIs REST · Docker**
+
+Bacharel em Ciência da Computação, com quase 2 anos de experiência em ambientes de produção.
+Foco em desenvolvimento backend, integração de sistemas, automação de processos e banco de dados.
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Linguagem C++" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Linguagem C" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="HTML" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Python" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="PostgreSQL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="JavaScript" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Linguagem C" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div><br>
 
 ## 📱 Contato
