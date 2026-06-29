@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Diego Samuel 👋
 
-**Desenvolvedor Backend Júnior | Python · C++ · SQL · APIs REST · Docker**
-
 Bacharel em Ciência da Computação, com quase 2 anos de experiência em ambientes de produção.
 Foco em desenvolvimento backend, integração de sistemas, automação de processos e banco de dados.
 
